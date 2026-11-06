@@ -1,4 +1,4 @@
-﻿# aws-lab-lambda-serverless
+﻿# Lab AWS - Processamento Serverless Orientado a Eventos (Lambda + S3 + SNS)
 
 Lab prÃ¡tico â€” Processamento de arquivos com AWS Lambda, S3 e SNS
 Escola da Nuvem Â· AWS re/Start
